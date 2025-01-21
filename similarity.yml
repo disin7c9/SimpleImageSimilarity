@@ -1,0 +1,21 @@
+name: similarity
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - imagehash
+  - jupyter
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - pip
+  - pyopengl
+  - python==3.10.11
+  - scikit-learn
+  - scikit-image
+  - seaborn
+  - scipy
